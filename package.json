@@ -1,0 +1,28 @@
+{
+  "name": "pakvista-cicd",
+  "version": "1.0.0",
+  "description": "Project of DevOps",
+  "scripts": {
+    "lint:html": "htmlhint *.html",
+    "lint:css": "stylelint style.css",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talha-xml/pakvista-cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/talha-xml/pakvista-cicd/issues"
+  },
+  "homepage": "https://github.com/talha-xml/pakvista-cicd#readme",
+  "devDependencies": {
+    "htmlhint": "^1.9.2",
+    "parcel": "^2.16.4",
+    "stylelint": "^17.13.0",
+    "stylelint-config-standard": "^40.0.0"
+  }
+}
