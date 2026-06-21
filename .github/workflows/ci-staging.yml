@@ -1,3 +1,4 @@
+# Workflow maintained by Faizan
 name: CI Staging
 on:
   pull_request:
@@ -34,3 +35,4 @@ jobs:
           tags: |
             ${{ secrets.DOCKERHUB_USERNAME }}/pakvista-cicd:staging-latest
             ${{ secrets.DOCKERHUB_USERNAME }}/pakvista-cicd:staging-${{ github.sha }}
+
