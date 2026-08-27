@@ -16,7 +16,7 @@
 
 ---
 
-<h2>📌 Project Overview</h2>
+<h2>Project Overview</h2>
 
 <p>
   <strong>PakVista</strong> is a containerized static web application designed to showcase
@@ -38,7 +38,7 @@
 
 ---
 
-<h2>🎯 Project Objectives</h2>
+<h2>Project Objectives</h2>
 
 <ul>
   <li>Build a responsive static tourism website using HTML5 and CSS3.</li>
@@ -53,7 +53,7 @@
 
 ---
 
-<h2>👨‍💻 My Role — Team Lead</h2>
+<h2>My Role — Team Lead</h2>
 
 <p>
   As the <strong>Team Lead</strong> for a five-person engineering team, I was responsible
@@ -111,7 +111,7 @@
 
 ---
 
-<h2>🏗️ System Architecture</h2>
+<h2>System Architecture</h2>
 
 <p>
   PakVista follows a three-environment deployment architecture where code progresses
@@ -151,7 +151,7 @@
 
 ---
 
-<h2>🔄 CI/CD Workflow</h2>
+<h2>CI/CD Workflow</h2>
 
 <h3>1. Development</h3>
 
@@ -190,7 +190,7 @@
 
 ---
 
-<h2>🌳 GitFlow Strategy</h2>
+<h2>GitFlow Strategy</h2>
 
 <pre>
 feature/*
@@ -242,7 +242,7 @@ Production
 
 ---
 
-<h2>⚙️ Continuous Integration</h2>
+<h2>Continuous Integration</h2>
 
 <p>
   The CI pipeline is automatically triggered when Pull Requests target
@@ -277,7 +277,7 @@ pakvista:&lt;commit-sha&gt;
 
 ---
 
-<h2>🚀 Continuous Deployment</h2>
+<h2>Continuous Deployment</h2>
 
 <p>
   Production deployment is automated through GitHub Actions and Render deploy hooks.
@@ -311,7 +311,7 @@ GitHub Actions
 
 ---
 
-<h2>🐳 Containerization</h2>
+<h2>Containerization</h2>
 
 <p>
   The application is packaged into a lightweight Docker container using
@@ -346,7 +346,7 @@ Render
 
 ---
 
-<h2>🔐 Environment & Security</h2>
+<h2>Environment & Security</h2>
 
 <p>
   Each deployment environment is isolated through GitHub Environments.
@@ -367,7 +367,7 @@ Render
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <table>
   <thead>
@@ -422,7 +422,7 @@ Render
 
 ---
 
-<h2>📁 Repository Structure</h2>
+<h2>Repository Structure</h2>
 
 <pre>
 PakVista/
@@ -505,7 +505,7 @@ PakVista/
 
 ---
 
-<h2>🎓 Learning Outcomes</h2>
+<h2>Learning Outcomes</h2>
 
 <p>
   This project provided hands-on experience with professional DevOps practices,
@@ -526,7 +526,7 @@ PakVista/
 
 ---
 
-<h2>👥 Team</h2>
+<h2>Team</h2>
 
 <p>
   PakVista was developed by a <strong>five-person engineering team</strong>,
@@ -539,7 +539,7 @@ PakVista/
 
 ---
 
-<h2>📌 Project Summary</h2>
+<h2>Project Summary</h2>
 
 <p>
   PakVista demonstrates how a simple static website can be transformed into
